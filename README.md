@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DeFi Security**
 
-- 🌱 I’m currently learning **Solidity, Typescript, React**
+- 🌱 I’m currently learning **Solidity, Typescript, ReactJs**
 
 - 👯 I’m looking to collaborate on **Smart Contracts,DeFi,App Security**
 
