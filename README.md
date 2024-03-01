@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
-<h3 align="center">A passionate web3 developer security Consultant</h3>
+<h3 align="center">A passionate Web3 Developer</h3>
 
 - 🔭 I’m currently working on **DeFi Security**
 
